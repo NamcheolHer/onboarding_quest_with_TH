@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 5th Code Peer Review Templete
 
-- 코더 : 이태환, 허남철
+- 코더 : 허남철
 - 리뷰어 : 이영빈
 
 
